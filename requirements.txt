@@ -1,0 +1,8 @@
+uvicorn[standard]
+gunicorn
+fastapi
+pandas
+joblib
+python-multipart
+loguru
+pyarrow
